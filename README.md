@@ -10,7 +10,7 @@ I'm a passionate Software Engineer specializing in Full Stack Web Development. W
 * ✉️  You can contact me at [damithamewan201@gmail.com](mailto:damithamewan201@gmail.com)
 * 🚀  I'm currently working on [Lynn](http://lynn.chat/)
 * 🤝  I'm open to collaborating on projects that resonate with my skills and interests. Whether it's building innovative web applications with React, enhancing server-side capabilities with Node.js, or architecting scalable solutions with Next.js and TypeScript, I'm here to collaborate and add value to your project.
-* ⚡  I'm proudly hard-stuck silver in Valorant, so I fix bugs better than headshots!
+* ⚡  I'm proudly a hard-stuck silver in Valorant, so I fix bugs better than headshots!
 
 ### Skills
 
