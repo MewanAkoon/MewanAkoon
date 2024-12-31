@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a passionate Software Engineer specializing in Full Stack Web Development. With a strong foundation in the MERN stack complemented by TypeScript, I've crafted dynamic web applications that are both efficient and scalable. My journey has allowed me to gain hands-on experience with Next.js, Firebase, and Google Cloud, enabling me to build robust solutions that meet diverse business needs. Currently, I'm diving deeper into the world of DevOps, particularly focusing on Google Cloud, to enhance my skills in deploying and managing cloud-native applications. This exploration is driven by my commitment to understanding the intricacies of software delivery and infrastructure management.
+I’m a passionate Software Engineer specializing in Full Stack Web Development. With a strong foundation in the MERN stack complemented by TypeScript, I’ve crafted dynamic web applications that are both efficient and scalable. My journey has allowed me to gain hands-on experience with Next.js, Firebase, and Google Cloud, enabling me to build robust solutions that meet diverse business needs. Currently, I’m diving deeper into the world of DevOps, particularly focusing on Google Cloud, to enhance my skills in deploying and managing cloud-native applications. This exploration is driven by my commitment to understanding the intricacies of software delivery and infrastructure management.
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [damithamewan201@gmail.com](mailto:damithamewan201@gmail.com)
-* 🚀  I'm currently working on [Lynn](http://lynn.chat/)
 * 🤝  I'm open to collaborating on projects that resonate with my skills and interests. Whether it's building innovative web applications with React, enhancing server-side capabilities with Node.js, or architecting scalable solutions with Next.js and TypeScript, I'm here to collaborate and add value to your project.
-* ⚡  I'm proudly a hard-stuck silver in Valorant, so I fix bugs better than headshots!
+* ⚡  I'm proudly a hard-stuck platinum in Valorant, so I fix bugs better than headshots!
 
 ### Skills
 
