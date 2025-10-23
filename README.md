@@ -2,13 +2,15 @@
 
 ###
 
-<code align="left"><b>Senior Software Engineer</b></code>
+<code><b>Senior Software Engineer</b></code>
 
 ###
 
 <p align="left">I’m a detail-oriented Senior Software Engineer with over four years of experience creating scalable, high-performance web and mobile applications. I specialize in modern JavaScript and TypeScript ecosystems, building across the full stack — from elegant, responsive front-end experiences with React, Next.js, and React Native to robust back-end services powered by Node.js, NestJS, and GraphQL. My focus is on clean architecture, maintainable code, and seamless user experiences that balance performance and design.</p>
 
 <p align="left">Beyond coding, I’m deeply interested in DevOps, cloud infrastructure, and the intersection of creativity and technology. I enjoy exploring new ways to build smarter, more efficient systems using tools like Docker, Kubernetes, and Terraform. Whether it’s AI-driven applications, developer tools, or learning platforms, I’m passionate about collaborating on meaningful projects that drive innovation and make an impact.</p>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MewanAkoon.MewanAkoon&" alt="Visitor badge" />
 
 ###
 
